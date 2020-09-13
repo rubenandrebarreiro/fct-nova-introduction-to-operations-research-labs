@@ -1,1 +1,1 @@
-# fct-nova-introduction-to-operations-research-labs
+# FCT NOVA - Introduction to Operations Research Labs
